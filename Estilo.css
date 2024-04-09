@@ -1,0 +1,17 @@
+.Cabecera{
+    background-color: black;
+    display: flex;
+    
+}
+
+.fondo{
+    background-color: gray;
+}
+
+.symbols-menu {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+}
